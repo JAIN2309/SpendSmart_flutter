@@ -24,22 +24,6 @@
 
 <br/>
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-| 🏠 Dashboard | 💳 Transactions | 📊 Analytics | ➕ Add Expense |
-|:---:|:---:|:---:|:---:|
-| Balance card · Bar chart · Pie chart · Recent list | Search · Filter chips · Grouped by date · Swipe to delete | Line chart · Category bars · Monthly comparison | Toggle · Amount · Categories · Date |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## ✨ Features
 
 <br/>
